@@ -1,0 +1,2 @@
+# VSGit
+Visual Studio Git
