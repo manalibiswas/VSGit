@@ -13,6 +13,7 @@ namespace ConsoleApp1
             //Feature update
             //Update from GitHub
             //Update from feature: VS
+            //Update from master: VS
         }
     }
 }
